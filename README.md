@@ -1,6 +1,7 @@
 ![HelloWorldGIF (2)](https://github.com/seyoun9/seyoun9/assets/112360339/4a878501-bc91-42c0-b071-e68fc77ff226)
 
 ### 🎉Welcome to My Home🎉
+<br/>
 🫷😎🫸
 
 <a href="https://computer-life.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FF6000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
