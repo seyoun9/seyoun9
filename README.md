@@ -10,4 +10,4 @@
 <br/>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"></a>
 <br/>
-<a href="https://developer.android.com/studio?hl=ko" target="_blank"><img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=android studio&logoColor=black"></a>
+<a href="https://developer.android.com/studio?hl=ko" target="_blank"><img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"></a>
