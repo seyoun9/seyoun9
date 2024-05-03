@@ -13,4 +13,4 @@
 <a href="https://developer.android.com/studio?hl=ko" target="_blank"><img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"></a>
 
 <br/><br/><br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyoun9&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyoun9&show_icons=true&theme=ambient_gradient)
