@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Fullstack%20Developer&fontSize=40&fontColor=#FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Fullstack%20Developer&fontSize=40&fontColor=#ffffff)
 
 <hr width=855>
 <br><h3>Design</h3>
